@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cari" value="name:id;datatype:int,name:no_reg;datatype:string,name:tgl_nyala;datatype:date,name:tgl_berhenti;datatype:date,name:tgl_perpanjangan;datatype:date" />
+</info>

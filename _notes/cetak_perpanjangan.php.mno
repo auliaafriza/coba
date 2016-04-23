@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_laporan_perpanjangan" value="name:id;datatype:int,name:no_reg;datatype:string,name:tgl_nyala;datatype:date,name:tgl_berhenti;datatype:date,name:tgl_perpanjangan;datatype:date,name:status;datatype:string" />
+	<infoitem key="UD_Laporan_Perpanjangan" value="name:id;datatype:int,name:no_reg;datatype:string,name:tgl_nyala;datatype:date,name:tgl_berhenti;datatype:date,name:tgl_perpanjangan;datatype:date,name:status;datatype:string" />
+</info>

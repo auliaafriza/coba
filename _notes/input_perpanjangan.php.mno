@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_perpanjangan" value="name:nama_pemohon;datatype:string,name:alamat;datatype:blob,name:daya;datatype:string,name:p_awal;datatype:string,name:p_akhir;datatype:string,name:p_satuan;datatype:string,name:no_hp;datatype:string,name:k_x;datatype:string,name:k_y;datatype:string,name:no_alat;datatype:string,name:tgl_nyala;datatype:date,name:tgl_berhenti;datatype:date,name:no_reg;datatype:string,name:tgl_daftar;datatype:date" />
+</info>

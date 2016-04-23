@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_controluser" value="name:id;datatype:int,name:nama;datatype:string,name:level;datatype:string,name:rayon;datatype:string,name:username;datatype:string,name:pwd;datatype:string" />
+</info>
